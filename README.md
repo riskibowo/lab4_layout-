@@ -29,3 +29,4 @@
 ![27](https://github.com/riskibowo/lab4_layout-/assets/115862112/feb9c47b-3c04-46e8-a60b-6f09a4db592a)
 ![28](https://github.com/riskibowo/lab4_layout-/assets/115862112/20be30a4-3a57-4665-90f8-6452ec07b270)
 
+
